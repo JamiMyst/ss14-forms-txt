@@ -6,13 +6,13 @@
                             ║░░░░██░░░████░███░║
                             ╚══════════════════╝[/color]
 [color=#028a0f][head=2]                    RESUME     [/head][/color]
-                                        [head=3]NanoTrasen[/ head]
-[color=#1b67a5]█▄ █ ▀█▀  
+[color=#1b67a5]█▄ █ ▀█▀  [head=3]NanoTrasen[/ head]
 █ ▀█     █    
 (* = A Required Field)
 
   *Full Legal Name: Delivers-the-Deal Sluh-Khat
   *Age: 38
+  *Species: Greater Kobald, Unathi
   *Gender: Prefer not to state
   *NTIN: 20450d11
 
@@ -20,5 +20,4 @@
 -----------------------------------------------------------------------------
 
 
-STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
-===================================================
+-----------------------------------------------------------------------------
